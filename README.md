@@ -1,17 +1,16 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Gabriel Hiago and my nickname is "GHsousa", and I'm brazilian. :brazil:
+## My name is Gabriel Hiago and my nickname is "GHsousa", and I'm brazilian. 
 
  🔭 I’m currently working on:
  *Cencosud do Brasil LTDA.
 
  🌱 I’m currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 <br><br>
- 💬 Ask me about Brazil, and i will tell abolt best part of my country.
+ 💬 Ask me about Brazil, and i will tell about best part of my country.
 <br><br>
  ⚡ Fun fact: I am studying English so that I can work in the most spoken language in the world!
 <br><br>
  📫 My contacts: 
-
 <br>
 <div>
 <br>
