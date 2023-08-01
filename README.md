@@ -2,7 +2,7 @@
 ## My name is Gabriel Hiago and my nickname is "GHsousa", and I'm brazilian. 
 
  🔭 I’m currently working on:
- *Cencosud do Brasil LTDA.
+ *Emccamp do Brasil LTDA
 
  🌱 I’m currently learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 <br><br>
